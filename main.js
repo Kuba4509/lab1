@@ -22,7 +22,7 @@ przeliczBtn.addEventListener('click',()=>{
     
     pojeminkNaWyniki.innerHTML = "Min: " + min + " Max: " + max + " Suma: " + suma
     const DodajPoleBtn = document.querySelector('#DodajPole')
-    DodajPoleBtn.addEventListener('click',()=>{
+    DodajPoleBtn.addEventListener('click1',()=>{
         console.log('dziala')
     })
 })
