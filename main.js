@@ -26,4 +26,4 @@ przeliczBtn.addEventListener('click',()=>{
         console.log('dziala')
     })
 })
-// sdbh
+// sdbhsfd
